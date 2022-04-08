@@ -11,7 +11,7 @@ public interface TestdatasDao {
     /**
      * 插入数据
      * @param record
-     * @return
+     * @return int
      */
     int insert(TestDatas record);
 
